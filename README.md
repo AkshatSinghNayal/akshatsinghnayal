@@ -14,6 +14,7 @@
 - 💬 Ask me about **Problem Solving | GenAI | RAG**
 
 - 📫 How to reach me **programmer.akshat@gmail.com**
+- 📫 How to reach me **https://www.linkedin.com/in/akshatnayal**
 
 
 
