@@ -106,4 +106,11 @@
 <a href="https://www.leetcode.com/akshat_nayal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akshat_nayal" height="30" width="40" /></a>
 </p>
 
+<div align="right">
+
+![Made by Akshat Singh Nayal](https://img.shields.io/badge/Made%20by-Akshat%20Singh%20Nayal-181717?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+
 
