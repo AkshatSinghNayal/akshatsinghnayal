@@ -23,7 +23,7 @@
 
   <div align="center" style="display:flex;justify-content:space-between;align:center;"> 
 
-[![Akshat Nayal GitHub stats](https://github-akshatnayal-26.vercel.app/api?username=akshatsinghnayal&theme=tokyonight&show_icons=true)](https://github.com/akshatsinghnayal/)‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ [![Top Langs](https://github-akshatnayal-26.vercel.app/api/top-langs/?username=akshatsinghnayal&theme=tokyonight&show_icons=true)](https://github.com/akshatsinghnayal/)
+[![Akshat Nayal GitHub stats](https://github-akshatnayal-26.vercel.app/api?username=akshatsinghnayal&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=github_dark)](https://github.com/akshatsinghnayal/)‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ [![Top Langs](https://github-akshatnayal-26.vercel.app/api/top-langs/?username=akshatsinghnayal&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=github_dark)](https://github.com/akshatsinghnayal/)
 
 </div>
 
