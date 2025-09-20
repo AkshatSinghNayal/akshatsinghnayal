@@ -108,7 +108,9 @@
 
 <div align="right">
 
-[![Made by Akshat Singh Nayal](https://img.shields.io/badge/Made%20by-Akshat%20Singh%20Nayal-181717?style=for-the-badge&logo=github&logoColor=white)](https://leetcode.com/u/Akshat_Nayal/)
+<a href="https://leetcode.com/u/Akshat_Nayal/" target="_blank">
+  <img src="https://img.shields.io/badge/Made%20by-Akshat%20Singh%20Nayal-181717?style=for-the-badge&logo=github&logoColor=white" alt="Made by Akshat Singh Nayal">
+</a>
 
 
 </div>
