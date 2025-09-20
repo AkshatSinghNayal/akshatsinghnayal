@@ -108,7 +108,8 @@
 
 <div align="right">
 
-![Made by Akshat Singh Nayal](https://img.shields.io/badge/Made%20by-Akshat%20Singh%20Nayal-181717?style=for-the-badge&logo=github&logoColor=white)
+[![Made by Akshat Singh Nayal](https://img.shields.io/badge/Made%20by-Akshat%20Singh%20Nayal-181717?style=for-the-badge&logo=github&logoColor=white)](https://leetcode.com/u/Akshat_Nayal/)
+
 
 </div>
 
