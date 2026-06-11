@@ -69,6 +69,6 @@
 
 
 </div>
-
+![snake animation](https://github.com/<akshatsinghnayal>/<akshatsinghnayal>/blob/output/github-contribution-grid-snake2.svg)
 
 
