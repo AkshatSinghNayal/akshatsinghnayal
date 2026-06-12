@@ -69,6 +69,6 @@
 
 
 </div>
-![snake animation](https://raw.githubusercontent.com/akshatsinghnayal/akshatsinghnayal/output/github-contribution-grid-snake2.svg)
+<img src="https://raw.githubusercontent.com/akshatsinghnayal/akshatsinghnayal/output/github-contribution-grid-snake2.svg" alt="GitHub Pull Requests Snake Game" />
 
 
