@@ -53,6 +53,7 @@
 <a href="https://leetcode.com/u/akshat_nayal/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
 </div>
 
+<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AkshatSinghNayal/AkshatSinghNayal/output/pacman-contribution-graph-dark.svg">
