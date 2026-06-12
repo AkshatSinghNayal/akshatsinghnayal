@@ -69,5 +69,3 @@
 
 
 </div>
-![snake animation](https://akshatsinghnayal.github.io/akshatsinghnayal/github-contribution-grid-snake2.svg)
-
