@@ -14,20 +14,12 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
 
     steps:
       - name: Generate Pac-Man contribution graph
         uses: abozanona/pacman-contribution-graph@main
         with:
-          github_user_name: ${{ github.repository_owner }}
-
-      - name: Verify generated files
-        run: |
-          echo "Current directory:"
-          pwd
-          echo "Files:"
-          find . -type f
+          github_user_name: akshatsinghnayal
 
       - name: Deploy to output branch
         uses: peaceiris/actions-gh-pages@v4
@@ -35,4 +27,3 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
           publish_branch: output
-          force_orphan: true
