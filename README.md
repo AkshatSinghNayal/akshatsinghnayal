@@ -21,23 +21,7 @@
 
 
 
-<div align="center">
-  <a href="https://github.com/akshatsinghnayal/">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-akshatnayal-26.vercel.app/api?username=akshatsinghnayal&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=github_dark">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-akshatnayal-26.vercel.app/api?username=akshatsinghnayal&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=default">
-      <img alt="Akshat Nayal GitHub stats" src="https://github-akshatnayal-26.vercel.app/api?username=akshatsinghnayal&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=default">
-    </picture>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/akshatsinghnayal/">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-akshatnayal-26.vercel.app/api/top-langs/?username=akshatsinghnayal&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=github_dark">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-akshatnayal-26.vercel.app/api/top-langs/?username=akshatsinghnayal&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=default">
-      <img alt="Top Langs" src="https://github-akshatnayal-26.vercel.app/api/top-langs/?username=akshatsinghnayal&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=default">
-    </picture>
-  </a>
-</div>
+<div align="center"> <a href="https://github.com/akshatsinghnayal/"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://github-akshatnayal-26.vercel.app/api?username=akshatsinghnayal&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=github_dark"> <source media="(prefers-color-scheme: light)" srcset="https://github-akshatnayal-26.vercel.app/api?username=akshatsinghnayal&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=default"> <img alt="Akshat Nayal GitHub stats" src="https://github-akshatnayal-26.vercel.app/api?username=akshatsinghnayal&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=default"> </picture> </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/akshatsinghnayal/"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://github-akshatnayal-26.vercel.app/api/top-langs/?username=akshatsinghnayal&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=github_dark"> <source media="(prefers-color-scheme: light)" srcset="https://github-akshatnayal-26.vercel.app/api/top-langs/?username=akshatsinghnayal&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=default"> <img alt="Top Langs" src="https://github-akshatnayal-26.vercel.app/api/top-langs/?username=akshatsinghnayal&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=default">
 
 <br>
 
@@ -53,11 +37,7 @@
 <h3 align="left">Languages and Tools :</h3>
 
 <div align="left">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=c,cpp,html,css,js,java,python,django,nodejs,react,mongodb,mysql,linux,postman,gcp,pytorch,pandas&theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=c,cpp,html,css,js,java,python,django,nodejs,react,mongodb,mysql,linux,postman,gcp,pytorch,pandas&theme=light">
-    <img alt="Languages and Tools" src="https://skillicons.dev/icons?i=c,cpp,html,css,js,java,python,django,nodejs,react,mongodb,mysql,linux,postman,gcp,pytorch,pandas&theme=light" />
-  </picture>
+  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,java,python,django,nodejs,react,mongodb,mysql,linux,postman,gcp,pytorch,pandas" />
 </div>
 
 <h3 align="left">Connect With Me :</h3>
