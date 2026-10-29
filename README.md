@@ -1,11 +1,11 @@
 <!-- ===================== HERO ===================== -->
 <div align="center">
-  <img src="ascii_portrait.svg" width="760" alt="ASCII portrait of Akshat">
+  <img src="ascii_portrait.svg" width="640" alt="ASCII portrait of Akshat">
 
   <h1>Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Akshat Singh Nayal</h1>
   <h3>A Student from Lucknow 🇮🇳</h3>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1200&color=58A6FF&center=true&vCenter=true&width=480&lines=Developing+Problem+Solving+Skills;Learning+GenAI+%7C+Agentic+RAG;Ask+me+about+Problem+Solving+%7C+GenAI+%7C+RAG" alt="Typing animation">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&height=40&lines=Developing+Problem+Solving+Skills;Learning+GenAI+%7C+Agentic+RAG;Ask+me+about+Problem+Solving+%7C+GenAI+%7C+RAG" alt="Typing animation">
 
   <p>
     🔭 Working on <b>Developing Problem Solving Skills</b><br>
@@ -20,20 +20,10 @@
 <!-- ===================== STATS ===================== -->
 <div align="center">
   <h3>📊 GitHub Stats</h3>
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/akshatsinghnayal/">
-          <img src="https://github-akshatnayal-26.vercel.app/api?username=akshatsinghnayal&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=github_dark" alt="Akshat Nayal GitHub stats">
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/akshatsinghnayal/">
-          <img src="https://github-akshatnayal-26.vercel.app/api/top-langs/?username=akshatsinghnayal&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=github_dark" alt="Top Langs">
-        </a>
-      </td>
-    </tr>
-  </table>
+  <p>
+    <a href="https://github.com/akshatsinghnayal/"><img height="190" src="https://github-akshatnayal-26.vercel.app/api?username=akshatsinghnayal&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=github_dark&hide_border=true" alt="GitHub stats"></a>
+    <a href="https://github.com/akshatsinghnayal/"><img height="190" src="https://github-akshatnayal-26.vercel.app/api/top-langs/?username=akshatsinghnayal&layout=compact&cache_seconds=86400&theme=github_dark&hide_border=true" alt="Top languages"></a>
+  </p>
 </div>
 
 <br>
