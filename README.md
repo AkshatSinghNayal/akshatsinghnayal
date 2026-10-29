@@ -13,10 +13,10 @@
 
 <p align="center">
   <a href="https://github.com/akshatsinghnayal/">
-    <img height="400" src="https://github-akshatnayal-26.vercel.app/api?username=akshatsinghnayal&show_icons=true&hide_rank=true&include_all_commits=true&count_private=true&cache_seconds=86400&theme=transparent&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&hide_border=true" alt="Akshat Nayal GitHub stats" />
+    <img height="210" src="https://github-akshatnayal-26.vercel.app/api?username=akshatsinghnayal&show_icons=true&hide_rank=true&include_all_commits=true&count_private=true&cache_seconds=86400&theme=transparent&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&hide_border=true" alt="Akshat Nayal GitHub stats" />
   </a>
   <a href="https://github.com/akshatsinghnayal/">
-    <img height="350" src="https://github-akshatnayal-26.vercel.app/api/top-langs/?username=akshatsinghnayal&langs_count=6&cache_seconds=86400&theme=transparent&title_color=58a6ff&text_color=c9d1d9&hide_border=true" alt="Top Langs" />
+    <img height="310" src="https://github-akshatnayal-26.vercel.app/api/top-langs/?username=akshatsinghnayal&langs_count=6&cache_seconds=86400&theme=transparent&title_color=58a6ff&text_color=c9d1d9&hide_border=true" alt="Top Langs" />
   </a>
 </p>
 
