@@ -18,50 +18,22 @@
 
 
 
+<br>
 
 
+<div align="center">
 
-<table>
-<tr>
-<td width="50%" align="center">
+<a href="https://github.com/akshatsinghnayal/">
+<img src="https://github-akshatnayal-26.vercel.app/api?username=akshatsinghnayal&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=github_dark" />
+</a>
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-akshatnayal-26.vercel.app/api?username=akshatsinghnayal&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=github_dark"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://github-akshatnayal-26.vercel.app/api?username=akshatsinghnayal&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=github"
-  />
-  <img
-    src="https://github-akshatnayal-26.vercel.app/api?username=akshatsinghnayal&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=github_dark"
-    alt="Akshat Nayal GitHub Stats"
-  />
-</picture>
+&nbsp;&nbsp;&nbsp;&nbsp;
 
-</td>
+<a href="https://github.com/akshatsinghnayal/">
+<img src="https://github-akshatnayal-26.vercel.app/api/top-langs/?username=akshatsinghnayal&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=github_dark" />
+</a>
 
-<td width="50%" align="center">
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-akshatnayal-26.vercel.app/api/top-langs/?username=akshatsinghnayal&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=github_dark"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://github-akshatnayal-26.vercel.app/api/top-langs/?username=akshatsinghnayal&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=github"
-  />
-  <img
-    src="https://github-akshatnayal-26.vercel.app/api/top-langs/?username=akshatsinghnayal&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=github_dark"
-    alt="Top Languages"
-  />
-</picture>
-
-</td>
-</tr>
-</table>
+</div>
 <br>
 
 
