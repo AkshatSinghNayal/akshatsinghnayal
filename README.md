@@ -18,22 +18,15 @@
 
 
 
-<br>
 
 
-<div align="center">
 
-<a href="https://github.com/akshatsinghnayal/">
-<img src="https://github-akshatnayal-26.vercel.app/api?username=akshatsinghnayal&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=github_dark" />
-</a>
+  <div align="center" style="display:flex;justify-content:space-between;align:center;"> 
 
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://github.com/akshatsinghnayal/">
-<img src="https://github-akshatnayal-26.vercel.app/api/top-langs/?username=akshatsinghnayal&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=github_dark" />
-</a>
+[![Akshat Nayal GitHub stats](https://github-akshatnayal-26.vercel.app/api?username=akshatsinghnayal&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=github_dark)](https://github.com/akshatsinghnayal/)‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ [![Top Langs](https://github-akshatnayal-26.vercel.app/api/top-langs/?username=akshatsinghnayal&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=github_dark)](https://github.com/akshatsinghnayal/)
 
 </div>
+
 <br>
 
 
